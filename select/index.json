@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "【MV】Regret（Song by luno）(フル音源Ver.)【メメントモリ】",
+  "base_artist": "メメントモリ公式",
+  "createdAt": "2025-12-01T12:02:22.170822Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Regret",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_01_Regret_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Regret nothing ～TightenUp ～",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_02_Regret_nothing_~TightenUp_~_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "REGRET",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_03_REGRET_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Regret feat. LGYankees(HIRO)",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_04_Regret_feat._LGYankees(HIRO)_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Regret",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_05_Regret_ポルノグラフィティ.txt"
+    }
+  ]
+}
